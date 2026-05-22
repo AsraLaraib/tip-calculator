@@ -16,5 +16,4 @@ npm run dev
 - Live calculations
 - Responsive design
 - Validation
-- Accessible labels
 - Reset functionality
